@@ -1,0 +1,9 @@
+# Ignore .env files containing sensitive information
+.env
+
+# Other common files to ignore (optional)
+node_modules/
+.DS_Store
+*.log
+*.env.local
+*.env.*.local
